@@ -1,4 +1,4 @@
-## Olá, sou Fabio Adriano, formado em Analise e Desenvolvimento de Sistemas!
+## Olá, sou Fabio Adriano, Analista e Desenvolvedor de Sistemas!
 <div align="center">
   <a href="https://github.com/F4bio00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F4bio00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
